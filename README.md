@@ -92,8 +92,7 @@
   <section id="publications"> 
     <div class="card">
       <h2>Publications</h2>
-      <p>[You can list your published papers, journals, and conference works here<img width="723" height="482" alt="image" src="https://github.com/user-attachments/assets/cadc8650-d188-4a5a-a3d5-4817d96657ef" />
-]</p>
+      <p>[You can list your published papers, journals, and conference works here]</p>
     </div>
   </section>
 
