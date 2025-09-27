@@ -100,7 +100,7 @@
     <div class="card">
       <h2>Contact</h2>
       <p>Email: gaddesambasivarao1@gmail.com</p>
-      <p>Phone: +91-9347871614</p>
+      <p>Phone: +91-xxxxxxxxxxx</p>
       <p>Address: Guntur, Andhra Pradesh, India</p>
     </div>
   </section>
