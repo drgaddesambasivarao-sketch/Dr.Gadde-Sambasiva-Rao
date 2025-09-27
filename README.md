@@ -72,8 +72,7 @@
     <div class="card">
       <h2>About Me</h2>
       <p>
-        Hello! I am <b>Gadde Sambasiva Rao</b>, an Assistant Professor in the Department of Mathematics at Bapatla Engineering College and a Research Scholar at KLEF. 
-        My research focuses on fuzzy soft sets, intuitionistic fuzzy algebraic structures, and Boolean ring theory.
+        Hello! I am <b>Dr.Gadde Sambasiva Rao</b>, a Ph.D. holder in Engineering Mathematics with a strong passion for research and teaching. Currently, I am working as <b>Assistant Professor<b> in Dept of Mathematics at Sree Dattha Group of Institutions, where I engage in nurturing young minds and fostering academic excellence. My research focuses on fuzzy soft set theory, Boolean rings, and advanced algebraic structures, contributing to innovative mathematical studies. I have published several research papers and continue to explore new concepts in mathematics. Teaching is my true passion, and I strive to make complex topics accessible and engaging for students. I enjoy guiding students in problem-solving and critical thinking. Collaborating with fellow researchers and expanding my knowledge in mathematics keeps me motivated. I approach challenges with determination, curiosity, and a positive mindset. I believe in bridging theoretical knowledge with practical applications in education and research. Integrity, perseverance, and meaningful contributions define my professional journey.
       </p>
     </div>
   </section>
