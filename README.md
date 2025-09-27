@@ -57,8 +57,8 @@
 <body>
 
   <header>
-    <h1>Gadde Sambasiva Rao</h1>
-    <p>Assistant Professor & Research Scholar in Mathematics</p>
+    <h1>Dr.Gadde Sambasiva Rao</h1>
+    <p>Assistant Professor in Mathematics</p>
   </header>
 
   <nav>
